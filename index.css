@@ -28,6 +28,26 @@ button {
 	background: rgba(0%, 0%, 100%, 0.75%);
 }
 
+i {
+	font-size: 48px;
+}
+
+a {
+	font: 400 20px/1.3 'Abril Fatface', Georgia, serif;
+	color: #ededed;
+	background: rgba(0%, 0%, 100%, 0.75%);
+}
+
+a:hover {
+	font: 400 40px/1.3 'Abril Fatface', Georgia, serif;
+	color: #ededed;
+	background: rgba(0%, 0%, 100%, 0.75%);
+}
+
+#bodyBG {
+	background-image: url();
+}
+
 #side-title {
 	font: 400 60px/1.3 'Abril Fatface', Georgia, serif;
 }
