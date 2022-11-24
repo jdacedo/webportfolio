@@ -43,10 +43,11 @@ a:hover {
 iframe {
 	height: 60vh;
 	width: 100%;
+
 }
 
 #bodyBG {
-	background-image: url();
+	background-image: url(./image/bg.png);	
 }
 
 #side-title {
